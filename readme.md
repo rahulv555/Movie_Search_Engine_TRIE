@@ -35,3 +35,7 @@ Rating : 'Rating of the movie'
 The user can press any key to go back to the main menu. 
 
 This is the complete description of how we have made our project - "MOVIE SEARCH ENGINE". 
+
+
+
+
